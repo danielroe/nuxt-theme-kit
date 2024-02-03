@@ -41,7 +41,7 @@
     "@nuxt/kit": "^3.0.0-rc.4",
     "lodash.get": "^4.4.2",
     "@types/lodash.get": "^4.4.7",
-    "untyped": "^0.4.4"
+    "untyped": "^1.4.2"
   },
   "devDependencies": {
     "@docus/docs-theme": "npm:@docus/docs-theme-edge@latest",
