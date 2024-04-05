@@ -54,7 +54,7 @@
     "browser-style-dictionary": "^3.1.1-browser.1",
     "c8": "^7.11.3",
     "eslint": "^8.18.0",
-    "globby": "^13.1.2",
+    "globby": "^14.0.1",
     "husky": "^8.0.1",
     "jiti": "^1.14.0",
     "lint-staged": "^13.0.3",
